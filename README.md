@@ -15,7 +15,7 @@ Try the model in action! I have deployed the final Vision Transformer model to a
 
 ## Project Overview
 
-This project focuses on building and evaluating Deep Learning models for fine-grained food image classification. The primary goal was to compare state-of-the-art architectures—**EfficientNet** and **Vision Transformers (ViT)**—using Transfer Learning, and ultimately scale the best-performing model to classify images into **101 different food categories**.
+This project focuses on building and evaluating Deep Learning models for fine-grained food image classification. The primary goal was to compare state-of-the-art architectures **EfficientNet** and **Vision Transformers (ViT)** using Transfer Learning, and ultimately scale the best-performing model to classify images into **101 different food categories**.
 
 The project is based on the **[Food101 Dataset](https://docs.pytorch.org/vision/main/generated/torchvision.datasets.Food101.html)** provided by Torchvision.
 
