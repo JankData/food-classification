@@ -63,7 +63,7 @@ Below are the loss and accuracy curves for both models during the 3-class experi
   <img src="results/vit_results.png" alt="ViT Results" width="45%">
 </p>
 
-**Observation:** The Vision Transformer converged significantly faster and achieved a lower loss compared to EfficientNet, reaching near-perfect accuracy on this small subset.
+**Observation:** The Vision Transformer (right) converged significantly faster and achieved a lower loss compared to EfficientNet (left), reaching near-perfect accuracy on this small subset.
 
 #### Speed vs. Performance Trade-off
 I conducted a benchmark to visualize the trade-off between the model speed and its accuracy.
